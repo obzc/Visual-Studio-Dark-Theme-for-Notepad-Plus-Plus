@@ -17,6 +17,7 @@ Credits:
    
 
 //-->
+
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="">
@@ -157,17 +158,17 @@ Credits:
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="679D47" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
         <LexerType name="html" desc="HTML" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="0095DD" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="COMMENT" styleID="9" fgColor="679D47" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="C0C0C0" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT" styleID="9" fgColor="5A823E" bgColor="FF0000" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="NUMBER" styleID="5" fgColor="DA5659" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="7CA563" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="SINGLESTRING" styleID="7" fgColor="7CA563" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="TAG" styleID="1" fgColor="0080C0" bgColor="1A0F0B" fontName="Arial Unicode MS" fontStyle="0" fontSize="10" />
-            <WordsStyle name="TAGEND" styleID="11" fgColor="6D4C2F" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="6D4C2F" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="6D4C2F" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="6D4C2F" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="7CA563" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="C0C0C0" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="SINGLESTRING" styleID="7" fgColor="C0C0C0" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TAG" styleID="1" fgColor="0984A8" bgColor="1A0F0B" fontName="Arial Unicode MS" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TAGEND" styleID="11" fgColor="808080" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="0080FF" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="62B0FF" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="0080FF" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="C0C0C0" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="CDATA" styleID="17" fgColor="DA5659" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="VALUE" styleID="19" fgColor="DA5659" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="ENTITY" styleID="10" fgColor="DA5659" bgColor="1A0F0B" fontName="" fontStyle="0" fontSize="10" />
