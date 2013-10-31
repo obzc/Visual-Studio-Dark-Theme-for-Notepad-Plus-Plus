@@ -1,5 +1,3 @@
-Visual Studio Dark Theme for Notepad++
-======================================
 
 - Only HTML Supporting now.
 
